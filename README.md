@@ -9,17 +9,17 @@ Python script that allows you to migrate your Spotify playlists to YouTube
 - firstly rename the file to config.json
 - update all the values
 
-"spotify_access_token": "", [Follow this](https://developer.spotify.com/documentation/web-api)
-"spotify_playlist_id": "", Copy playlist url there the end part is id only
-"youtube_api_key": "", [Follow here](https://console.cloud.google.com/apis)
-"youtube_playlist_id": "", Copy playlist url there the end part is id only
-"client_id": "", To get YouTube client id use OAuth Client Id from [here](https://console.cloud.google.com/apis/credentials) and use web
-"client_secret": "" Frome above step
+- "spotify_access_token": "", [Follow this](https://developer.spotify.com/documentation/web-api)
+- "spotify_playlist_id": "", Copy playlist url there the end part is id only
+- "youtube_api_key": "", [Follow here](https://console.cloud.google.com/apis)
+- "youtube_playlist_id": "", Copy playlist url there the end part is id only
+- "client_id": "", To get YouTube client id use OAuth Client Id from [here](https://console.cloud.google.com/apis/credentials) and use web
+- "client_secret": "" Frome above step
 
 Make sure test user is created in OAuth consent screen, user is owner of the YT Playlist
 
 ---------------------------
 
-Just wanted to have my one playlist on YT and also wanted to try chat gpt for code and that's how this was made quickly. I had say gpt4 does feels like code on anabolics xD
+I simply wanted to have my own playlist on YouTube, and also wanted to experiment with ChatGPT for coding, which led me to create this tool quickly. I must say that using GPT-4 felt like coding on steroids!
 
 ---------------------------
